@@ -4,6 +4,8 @@
 
 ### TODO
 - make model actually work
+- move model to python script, add separate utils file for readability
+- make chatbot demo
 - make closed domain responses work
 - make responses from word bank word with decoder
 
